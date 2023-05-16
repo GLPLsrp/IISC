@@ -6,7 +6,7 @@ const MyWebView = () => {
   return (
     <View style={{ flex: 1 }}>
       <WebView
-        source={{ uri: 'https://www.bitstreamio.com/' }}
+        source={{ uri: 'https://www.ganakalabs.com/' }}
         style={{ flex: 1 }}
       />
     </View>
